@@ -1,0 +1,1 @@
+this file is created to check if git is available.
